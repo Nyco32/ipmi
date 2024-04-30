@@ -1,3 +1,5 @@
+//alumno: Nicolas Sutti 21387/3
+
 PImage imagenoriginal;
 
 void setup(){
